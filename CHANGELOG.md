@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-23)
+## Unreleased (2025-01-23)
+
+<section class="features">
+
+### Features
+
+-   [`b358161`](https://github.com/stdlib-js/stdlib/commit/b35816126979042a3a33446b8ab64d6ff0e8c68a) - add C `ndarray` API and refactor `blas/ext/base/snansumkbn` [(#4834)](https://github.com/stdlib-js/stdlib/pull/4834)
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`b358161`](https://github.com/stdlib-js/stdlib/commit/b35816126979042a3a33446b8ab64d6ff0e8c68a) - **feat:** add C `ndarray` API and refactor `blas/ext/base/snansumkbn` [(#4834)](https://github.com/stdlib-js/stdlib/pull/4834) _(by Muhammad Haris)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`6a0d6b8`](https://github.com/stdlib-js/stdlib/commit/6a0d6b861f8e2079a501ca4e46a9175440eedb46) - **style:** update to use tabs for indentation _(by Philipp Burckhardt)_
 
@@ -25,8 +36,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Muhammad Haris
 -   Philipp Burckhardt
 
 </section>
